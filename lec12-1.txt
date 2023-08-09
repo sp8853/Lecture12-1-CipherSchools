@@ -1,0 +1,17 @@
+introduction to pointers
+
+each element requires memory 
+& operator
+float b;
+"ADDRESS" of the element 
+when you know the address of the elemets of an element 
+you can find the element 
+
+
+what is pointer?
+ first of all, it is a variable , just like other variables you studied so it has type, storage
+difference:it can only store the address(rather than the value) of a data item 
+type of a pointer variables- pointer to the type of the data whose address it will store 
+Example: int pointer, float pointer 
+can be pointer to any user-defined types also like 
+structure types 
